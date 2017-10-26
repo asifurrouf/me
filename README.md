@@ -8,12 +8,14 @@ High Quality & Cost Effective SQA Solution to IT Firms specially Bangladeshi Sof
 
 ## Who ?
 
-A Team of 5 Expert SQA Engineer.
-* Manual Test Engineer.
-* Load Test Engineer.
-* Security Test Engineer.
-* Automation Test Engineer.
-* Project Manager
+A Team of 7 Expert SQA Engineer.
+* Two Manual Test Engineer.(3 Year Experienced)
+* Load Test Engineer.(3 Year Experienced)
+* Security Test Engineer.(3 Year Experienced)
+* Two Automation Test Engineer.(5 Year Experienced)
+* Project Manager(10 Year Experienced)
+
+Team Experience: 32 Years
 
 ## When ?
 * Saturday-Thursday(8.00 A.M-8.00P.M)
@@ -50,6 +52,13 @@ We offer customized package also.
 * Balance testing costs with quality outcomes.
 * Drive continuous improvement in “time to quality”.
 * Visionary pure play QA and Testing Services.
+
+## Our Clients:
+
+* US Car Company
+* Weather Company
+* Embeded System Developer Company
+* Healthcare Company
 
 ## Get in Touch:
 
